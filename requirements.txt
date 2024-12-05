@@ -2,9 +2,10 @@ fastapi
 uvicorn
 newspaper3k
 nltk
-lxml
+lxml[html_clean]
 transformers
-torch
 spacy
 python-dateutil
-difflib
+SentencePiece
+lxml_html_clean
+torch
