@@ -3,3 +3,8 @@ uvicorn
 newspaper3k
 nltk
 lxml
+transformers
+torch
+spacy
+python-dateutil
+difflib
